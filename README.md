@@ -25,7 +25,7 @@ Unlike charts purely based on streaming numbers, Apple’s ranking system seems 
 - Advanced techniques: bagging, boosting, and alternative ML models for performance improvements  
 
 ## 📂 Project Structure  
-- **Data Exploration**: Understanding trends and correlations  
+- **Data Exploration Engineering**: Understanding trends and correlations  
 - **Model Training**: Various ML models with performance tuning  
 - **Results & Interpretations**: Insights from predictions and ranking classifications  
 - **Code Documentation**: Comments and markdowns explaining each step  
