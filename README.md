@@ -1,4 +1,5 @@
 # 🎵 Predicting Apple Music Chart Rankings
+This project is for educational and research purposes and archived. Feel free to contribute or use insights for your own work!
 
 ## 📌 Project Overview  
 This project aims to predict the relative popularity of songs on the Apple Music charts using machine learning techniques. Instead of focusing on exact rankings, we classify songs into five ranking categories based on their position on the Apple charts. Additionally, we explore a more ambitious goal: predicting a song’s stream ranking using only pre-release features—insights that could be valuable for music producers.  
@@ -35,6 +36,4 @@ Unlike charts purely based on streaming numbers, Apple’s ranking system seems 
 ✅ ML models can categorize songs into ranking tiers with promising accuracy.  
 ✅ Pre-release prediction of popularity is challenging but feasible with sufficient training data.  
 
----  
-### 📜 License  
-This project is for educational and research purposes. Feel free to contribute or use insights for your own work!
+
